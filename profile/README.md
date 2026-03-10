@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://ploi.cloud/images/logo-black.svg#gh-light-mode-only" height="60" alt="Ploi Cloud" />
-  <img src="https://ploi.cloud/images/logo.svg#gh-dark-mode-only" height="60" alt="Ploi Cloud" />
+![logo|100](https://ploi.cloud/images/logo-black.svg#gh-white-mode-only#gh-light-mode-only)
+![logo|100](https://ploi.cloud/images/logo.svg#gh-dark-mode-only#gh-dark-mode-only)
   
   <h3>European Cloud Hosting — Refined</h3>
 
