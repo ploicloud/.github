@@ -57,8 +57,7 @@ git push origin main
 
 ## 💶 Pricing
 
-Simple, memory-based pricing at **€13.88 / GB of memory per month**.
-CPU cores scale automatically. Pay hourly or monthly. No hidden fees.
+Simple, memory-based pricing. CPU cores scale automatically. Pay hourly or monthly. No hidden fees.
 
 → [View full pricing](https://ploi.cloud/pricing) · [Contact sales for custom plans](https://ploi.cloud/contact)
 
