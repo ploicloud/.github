@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://ploi.cloud/images/logo-black.svg" height="60" alt="Ploi Cloud" />
-
+  <img src="https://ploi.cloud/images/logo-black.svg#gh-light-mode-only" height="60" alt="Ploi Cloud" />
+  <img src="https://ploi.cloud/images/logo.svg#gh-dark-mode-only" height="60" alt="Ploi Cloud" />
+  
   <h3>European Cloud Hosting — Refined</h3>
 
   <p>GDPR-compliant cloud infrastructure built by developers, for developers.</p>
