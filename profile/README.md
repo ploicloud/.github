@@ -66,11 +66,11 @@ CPU cores scale automatically. Pay hourly or monthly. No hidden fees.
 
 ## 📍 Data Centers
 
-| Location | Latency | Status |
+| Location | Status |
 |---|---|---|
-| 🇳🇱 Amsterdam | ~15ms | ✅ Live |
-| 🇩🇪 Frankfurt | ~12ms | 🔜 Coming soon |
-| 🇪🇸 Madrid | ~18ms | 🔜 Coming soon |
+| 🇳🇱 Amsterdam | ✅ Live |
+| 🇺🇸 Chicago | ✅ Live |
+| 🇬🇧 UK | 🔜 Coming soon |
 
 99.9% uptime · Redundant connections · Auto-failover enabled
 
