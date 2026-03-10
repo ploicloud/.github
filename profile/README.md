@@ -67,7 +67,7 @@ CPU cores scale automatically. Pay hourly or monthly. No hidden fees.
 ## 📍 Data Centers
 
 | Location | Status |
-|---|---|---|
+|---|---|
 | 🇳🇱 Amsterdam | ✅ Live |
 | 🇺🇸 Chicago | ✅ Live |
 | 🇬🇧 UK | 🔜 Coming soon |
